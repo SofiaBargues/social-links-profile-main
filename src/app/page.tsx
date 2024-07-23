@@ -24,7 +24,6 @@ export default function Home() {
           <p className="text-[#b0b0b0] text-lg">
             "Font-end developer and avid reader."
           </p>
-
           <Button name="GitHub" />
           <Button name="Frontend Mentor" />
           <Button name="LinkedIn" />
